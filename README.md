@@ -1,4 +1,4 @@
-# Power-Bi-project
+# Power-Bi
 
 <h1>IMDB MOVIE ANALYSIS 
 
